@@ -1,4 +1,5 @@
-Blockchain-Powered Freelancer at BitGigz: Empowering the Gig Economy with Decentralized Transactions 🚀
+### Blockchain-Powered Freelancer at BitGigz: Empowering the Gig Economy with Decentralized Transactions 🚀
+
 
 - 🤝 Connecting Freelancers and Clients on BitGigz: Where Skills Meet Opportunities 💼
 
@@ -9,4 +10,6 @@ Blockchain-Powered Freelancer at BitGigz: Empowering the Gig Economy with Decent
 - 📈 Showcasing Skills, Finding Projects, Getting Paid: BitGigz Does It All! 💰💼
 
 - 🚀 Embracing the Future of Work: BitGigz and the Gig Economy Revolution 🌟
+
+- 📫 Reach us at: info@bitgigz.com
 
